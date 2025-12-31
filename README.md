@@ -1,6 +1,7 @@
 # Agent-Zero: LLM Staged Malware Analysis Tool
 
 **Agent-Zero** is a staged static malware analysis framework that integrates traditional reverse-engineering tools with local Large Language Model (LLM) reasoning to produce structured, analyst-ready threat assessments. Operating inside an isolated Kali Linux Docker container , it bridges the gap between raw technical artifacts and human-level security insight.
+![Agent-Zero Architecture](images/AZ-removebg-preview.png)
 
 ---
 
