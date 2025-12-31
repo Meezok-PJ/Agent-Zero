@@ -1,0 +1,7 @@
+# VirusTotal API Key
+# Get your free API key from: https://www.virustotal.com/gui/join-us
+VT_API_KEY=<API>
+
+# Hybrid Analysis (Falcon Sandbox) API Key
+# Get your free API key from: https://www.hybrid-analysis.com/signup
+HYBRID_ANALYSIS_API_KEY=<API>
