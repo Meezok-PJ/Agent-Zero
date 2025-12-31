@@ -160,6 +160,23 @@ Agent-Zero/
 * Fine-tuning the LLM on specific malware datasets.
 
 ---
+### Tool Documentation
+
+- **CAPA**: [GitHub Repository](https://github.com/mandiant/capa) | [Documentation](https://github.com/mandiant/capa)
+- **FLOSS**: [GitHub Repository](https://github.com/mandiant/flare-floss) | [Documentation](https://github.com/mandiant/flare-floss)
+- **theZoo**: [GitHub Repository](https://github.com/ytisf/theZoo)
+
+### API Documentation
+
+- **VirusTotal API**: [Documentation](https://docs.virustotal.com/reference)
+- **Hybrid Analysis API**: [Documentation](https://www.hybrid-analysis.com/docs/api/v2)
+- **Ollama API**: [Documentation](https://docs.ollama.com/api/introduction)
+
+### Related Projects
+
+- **Automated Kali Docker**: [GitHub Repository](https://github.com/Meezok-PJ/Automated-Kali-Docker)
+
+---
 
 ## 📜 License
 
