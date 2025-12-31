@@ -163,6 +163,3 @@ Agent-Zero/
 ## 📜 License
 
 This project is intended for **educational and research purposes only**. Do not use this framework for unauthorized analysis or testing of systems you do not own or have permission to analyze.
-
-```
-```
