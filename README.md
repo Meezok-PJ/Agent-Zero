@@ -1,12 +1,3 @@
-````md
-Here is the ultimate README file, combining the clean, visual aesthetic of your sample with the technical depth and specific project details from your report.
-
-### **GitHub Description (350 Characters)**
-
-**Agent-Zero: Staged static malware analysis framework in an isolated Kali Docker sandbox. Integrates CAPA, FLOSS, & VirusTotal with local AI (Gemma 3) to synthesize raw artifacts into actionable threat intelligence. Features a multi-stage pipeline for automated TTP detection & de-obfuscation. 🛡️🦠 #MalwareAnalysis #CyberSecurity #LLM**
-
----
-
 # Agent-Zero: Comprehensive Staged Malware Analysis Tool
 
 **Agent-Zero** is a staged static malware analysis framework that integrates traditional reverse-engineering tools with local Large Language Model (LLM) reasoning to produce structured, analyst-ready threat assessments. Operating inside an isolated Kali Linux Docker container , it bridges the gap between raw technical artifacts and human-level security insight.
